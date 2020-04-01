@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import hashlib
-plt.style.use('dark_background')
 
 def plt_trace(space, intensity,title='', **kwargs):
     fig = plt.figure()
