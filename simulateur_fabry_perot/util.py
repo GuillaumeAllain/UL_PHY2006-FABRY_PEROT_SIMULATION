@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import hashlib
 
 def plt_trace(space, intensity,title='', **kwargs):
     fig = plt.figure()
